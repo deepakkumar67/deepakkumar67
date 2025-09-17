@@ -32,7 +32,8 @@ Currently working with ReactJS, Django, and SQL to develop full-stack projects a
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-b4023b333/)  
-- 📧 [dagurdeepak67@gmail.com](mailto:dagurdeepak67@gmail.com)  
+- 📧 [Email](mailto:dagurdeepak67@gmail.com)  
+  
 
 ---
 
