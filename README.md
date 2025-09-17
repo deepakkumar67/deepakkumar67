@@ -17,7 +17,7 @@ Currently working with ReactJS, Django, and SQL to develop full-stack projects a
 
 ### 📂 Featured Projects
 - 🛍️ [Shopingo Ecommerce Website](https://github.com/deepakkumar67/Shopingo-Ecommerce) – Responsive ecommerce platform with Django backend  
-- 📰 [NewsAPI ReactJS App](https://github.com/deepakkumar67/NewsAPI-Website) – Real-time news app built with ReactJS and NewsAPI  
+- 📰 [NewsAPI ReactJS Website](https://github.com/deepakkumar67/NewsAPI-Website) – Real-time news app built with ReactJS and NewsAPI  
 
 *(More Django + SQL projects coming soon…)*
 
@@ -31,8 +31,7 @@ Currently working with ReactJS, Django, and SQL to develop full-stack projects a
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-b4023b333/)  
-- 📧 [Email](mailto:dagurdeepak67@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-b4023b333/)   
   
 
 ---
